@@ -12,3 +12,5 @@ https://pahlzachary.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Zachary Pahl
+
+### ©️2019 Run Buddy, Inc 
